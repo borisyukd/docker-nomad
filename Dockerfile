@@ -1,4 +1,4 @@
-FROM djenriquez/nomad:latest
+FROM djenriquez/nomad:v0.5.6
 
 LABEL name="nomad"
 
